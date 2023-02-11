@@ -5,7 +5,7 @@ import ShoppingList from "./ShoppingList";
 
 function App() {
   const title =
-    "La maison TRATTORIA est heureuse de vous accueillir à bord pour une dégustation raffinée de produits frais venant de l'Italie et de la Sicile.";
+    "La maison TRATTORIA est heureuse de vous accueillir pour une dégustation raffinée de produits frais venant de l'Italie et de la Sicile.";
 
   return (
     <div>
