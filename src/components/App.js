@@ -3,6 +3,7 @@ import logo from "../assets/logo.png";
 import Cart from "./Cart";
 import ShoppingList from "./ShoppingList";
 
+// Error from OpenAI!
 function App() {
   const title =
     "La maison TRATTORIA est heureuse de vous accueillir pour une dégustation raffinée de produits frais venant de l'Italie et de la Sicile.";
